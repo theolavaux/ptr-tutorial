@@ -1,0 +1,8 @@
+How to use rebase without breaking feature history: with this method, you can still check out original branch and try again
+
+git checkout feature
+git checkout -b temporary-branch
+git rebase -i master
+# [Clean up the history]
+git checkout master
+git merge temporary-branch
