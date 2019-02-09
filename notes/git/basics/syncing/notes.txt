@@ -9,7 +9,7 @@
 (-> Push the branch contents to remote repository: git push origin <feature_branch>)
 -> git checkout master
 
-=> On master: syncronize local master with upstream developements, then merge and push the feature
+=> On master: synchronize local master with upstream developements, then merge and push the feature
 
 -> Pull latest changes using a rebase method, no fast-forward: git pull --rebase
 
