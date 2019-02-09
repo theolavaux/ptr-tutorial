@@ -22,7 +22,7 @@ First, you should read what this repository is about: [Getting started](/GETTING
 ### Collaborating
 
 - [x] Workflow: [/courses/git/collaborating/workflow](/courses/git/collaborating/workflow)
-- [ ] Commit guidelines: [/courses/git/collaborating/commit-guidelines](/courses/git/collaborating/commit-guidelines)
+- [x] Commit guidelines: [/courses/git/collaborating/commit-guidelines](/courses/git/collaborating/commit-guidelines)
 
 
 ### Advanced
