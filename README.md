@@ -15,7 +15,7 @@ First, you should read what this repository is about: [Getting started](/GETTING
 - [x] Branches: [/courses/git/basics/branches](courses/git/basics/branches)
 - [x] Merging: [/courses/git/basics/merging](courses/git/basics/merging)
 - [x] Rebasing: [/courses/git/basics/rebasing](courses/git/basics/rebasing)
-- [ ] Syncing: [/courses/git/basics/syncing](courses/git/basics/syncing)
+- [x] Syncing: [/courses/git/basics/syncing](courses/git/basics/syncing)
 - [ ] Inspecting a repository: [/courses/git/basics/inspecting](/courses/git/basics/inspecting)
 
 
