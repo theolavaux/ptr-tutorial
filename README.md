@@ -16,7 +16,7 @@ First, you should read what this repository is about: [Getting started](/GETTING
 - [x] Merging: [/courses/git/basics/merging](courses/git/basics/merging)
 - [x] Rebasing: [/courses/git/basics/rebasing](courses/git/basics/rebasing)
 - [x] Syncing: [/courses/git/basics/syncing](courses/git/basics/syncing)
-- [ ] Inspecting a repository: [/courses/git/basics/inspecting](/courses/git/basics/inspecting)
+- [x] Inspecting a repository: [/courses/git/basics/inspecting](/courses/git/basics/inspecting)
 
 
 ### Collaborating
