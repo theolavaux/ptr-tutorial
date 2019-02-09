@@ -1,0 +1,9 @@
+In the Feature Branch Workflow, the one we're using:
+
+- Should we keep the commit on master branch from the feature branch AND the merge commit of feature into master?
+  Because git merge with the -no-ff option creates two commits in the git log, the one from the feature branch plus the merge commit.
+  Is that the behaviour that we want?
+
+- If yes, should we add a tag like merge to the merge commit specifying that we want to merge the branch that we previously pushed?
+  Should the second commit message be the same than the first one ?
+  
