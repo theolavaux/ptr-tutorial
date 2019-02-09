@@ -16,6 +16,6 @@
 
 -> Update & cleanup master: git rebase -i origin/master
 
--> Merge the new feature branch into master: git merge <feature_branch>
+-> Merge the new feature branch into master: git merge --no-ff <feature_branch>
 (-> git branch -d <feature_branch>)
 -> Push all the final changes to origin/master: git push origin master
