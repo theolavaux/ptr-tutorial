@@ -27,7 +27,7 @@ First, you should read what this repository is about: [Getting started](/GETTING
 
 ### Advanced
 
-- [ ] Manipulating local history: [/courses/git/advanced/manipulating-local-history](/courses/git/advanced/manipulating-local-history)
+- [x] Manipulating local history: [/courses/git/advanced/manipulating-local-history](/courses/git/advanced/manipulating-local-history)
 - [ ] Refs: [/courses/git/advanced/refs](/courses/git/advanced/refs)
 
 
