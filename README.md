@@ -37,7 +37,7 @@ First, you should read what this repository is about: [Getting started](/GETTING
 
 - [x] Overview: [/courses/js/basics/overview](/courses/js/basics/overview)
 - [x] Objects: [/courses/js/basics/objects](/courses/js/basics/objects)
-- [ ] Data types: [/courses/js/basics/data-types](/courses/js/basics/data-types)
+- [x] Data types: [/courses/js/basics/data-types](/courses/js/basics/data-types)
 - [ ] Functions: [/courses/js/basics/functions](/courses/js/basics/functions)
 - [ ] Classes: [/courses/js/basics/classes](/courses/js/basics/classes)
 - [ ] Error handling: [/courses/js/basics/error-handling](/courses/js/basics/error-handling)
