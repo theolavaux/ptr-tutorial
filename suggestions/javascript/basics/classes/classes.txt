@@ -1,0 +1,1 @@
+Wrong course link in: ptr-tutorial/courses/js/basics/classes/README.md (linking to the "Advanced working with functions" chapter of javascript.info's tutorial instead of "Objects, classes, inheritance")
