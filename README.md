@@ -46,7 +46,7 @@ First, you should read what this repository is about: [Getting started](/GETTING
 
 Some of these points are covered in the **Basics** courses, but you'll find more details here.
 
-- [ ] Overview: [/courses/js/es2015/overview](/courses/js/es2015/overview)
+- [x] Overview: [/courses/js/es2015/overview](/courses/js/es2015/overview)
 - [ ] Arrows and `this`: [/courses/js/es2015/arrows](/courses/js/es2015/arrows)
 - [ ] Classes: [/courses/js/es2015/classes](/courses/js/es2015/classes)
 - [ ] Template literals: [/courses/js/es2015/literals](/courses/js/es2015/literals)
